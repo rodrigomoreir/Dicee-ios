@@ -2,16 +2,30 @@
 
 # Dicee
 
-## Our Goal
+## Objetivo || Goal
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you a lot of important programming knowledge, while building a neat dice app.
+O objetivo deste tutorial é apresentar os principais conceitos de programação que formarão a base da maioria dos aplicativos construidos em swift no futuro. Este aplicativo ensina muitos conceitos de programação, enquanto se constrói um aplicativo de dados legal
 
-## What you will create
+The purpose of this tutorial is to introduce you to the main programming concepts that will form the basis of most applications built in swift in the future. This app teaches many programming concepts while building a cool data app.
 
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
+## O que foi criado? || What was created?
+
+Foi criado um aplicativo de dados de Las Vegas. Você pode fazer a rolagem de dados com o pressionar de um botão ou agitando seu telefone. Com este aplicativo em seu bolso, você estará totalmente preparado para acertar contas em qualquer lugar!
+
+A Las Vegas dice app was created. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
 
 
-## What you will learn
+## O que foi aprendido? || What was learned?
+
+* Como clonar um projeto Xcode existente do GitHub.
+* Crie um aplicativo com comportamento e funcionalidade.
+* Crie links entre os arquivos e código do Interface Builder usando IBActions e IBOutlets.
+* Familiarize-se com o editor de código Xcode.
+* * Aprenda a usar comentários para anotar código.
+* Compreenda e use constantes e variáveis Swift.
+* Compreenda e use tipos de coleção, como matrizes Swift.
+* Teste e depure seu aplicativo com o console Xcode.
+* Aprenda sobre randomização e como gerar números aleatórios no Swift.
 
 * How to clone an existing Xcode project from GitHub.
 * Create an app with behaviour and functionality.
